@@ -1,5 +1,3 @@
-# Matematchicas
-
 # Política de Privacidade para Matematchicas
 
 **Última atualização:** 28/04/2026
