@@ -10,7 +10,7 @@ O aplicativo não utiliza ferramentas de análise, rastreamento ou serviços de 
 
 Todos os dados de progresso permanecem armazenados exclusivamente em seu dispositivo e podem ser removidos ao desinstalar o aplicativo ou limpar os dados locais nas configurações do seu dispositivo.
 
-Se você tiver dúvidas, entre em contato: Lucaspeixotopro@gmail.com
+Se você tiver dúvidas, entre em contato: matemachicas.suporte@gmail.com
 
 ---
 
@@ -26,4 +26,4 @@ The App does not use analytics, tracking tools, or third-party data collection s
 
 All progress data remains stored exclusively on your device and can be removed by uninstalling the app or clearing the app’s local data through your device settings.
 
-If you have any questions, contact: Lucaspeixotopro@gmail.com
+If you have any questions, contact: matemachicas.suporte@gmail.com
